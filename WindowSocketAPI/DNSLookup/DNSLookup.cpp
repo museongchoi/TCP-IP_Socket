@@ -1,4 +1,4 @@
-#define _WINSOCK_DEPRECATED_NO_WARNINGS
+ï»¿#define _WINSOCK_DEPRECATED_NO_WARNINGS
 
 #include <iostream>
 #include <WinSock2.h>
@@ -10,20 +10,20 @@ using namespace std;
 
 int main()
 {
-	// ÃÊ±âÈ­ ´Ü°è
-	// winsock DLLÀ» ¸Ş¸ğ¸®¿¡ ·ÎµåÇÏ°í »ç¿ëÇÒ ÁØºñ¸¦ ÇÔ
-	// wonsock 2.2 ¹öÀü ¿äÃ»
-	WSAData wsaData; // ±¸Á¶Ã¼ : ¹öÀü Á¤º¸, ½Ã½ºÅÛ »óÅÂ µî
+	// ì´ˆê¸°í™” ë‹¨ê³„
+	// winsock DLLì„ ë©”ëª¨ë¦¬ì— ë¡œë“œí•˜ê³  ì‚¬ìš©í•  ì¤€ë¹„ë¥¼ í•¨
+	// wonsock 2.2 ë²„ì „ ìš”ì²­
+	WSAData wsaData; // êµ¬ì¡°ì²´ : ë²„ì „ ì •ë³´, ì‹œìŠ¤í…œ ìƒíƒœ ë“±
 	if (WSAStartup(MAKEWORD(2, 2), &wsaData) != 0)
 	{
-		cout << "WinSock ÃÊ±âÈ­ ½ÇÆĞ" << "\n";
+		cout << "WinSock ì´ˆê¸°í™” ì‹¤íŒ¨" << "\n";
 		return 1;
 	}
 
 	hostent* hostinfo = gethostbyname("test.com"); // getaddrinfo()
 	if (!hostinfo)
 	{
-		cout << "DNS Á¶È¸ ½ÇÆĞ" << "\n";
+		cout << "DNS ì¡°íšŒ ì‹¤íŒ¨" << "\n";
 		return 1;
 	}
 	
