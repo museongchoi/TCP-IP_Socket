@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B1AA2DC9-274C-4ABA-BC48-6255B5CFC3B2}|TCPClient\\TCPClient.vcxproj|C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\TCPClient\\TCPClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B1AA2DC9-274C-4ABA-BC48-6255B5CFC3B2}|TCPClient\\TCPClient.vcxproj|solutionrelative:TCPClient\\TCPClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDFF8001-BBD4-496F-87B2-68E4477205AE}|DNSLookup\\DNSLookup.vcxproj|C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\DNSLookup\\DNSLookup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BDFF8001-BBD4-496F-87B2-68E4477205AE}|DNSLookup\\DNSLookup.vcxproj|solutionrelative:DNSLookup\\DNSLookup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DNSLookup.cpp",
-              "DocumentMoniker": "C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\DNSLookup\\DNSLookup.cpp",
-              "RelativeDocumentMoniker": "DNSLookup\\DNSLookup.cpp",
-              "ToolTip": "C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\DNSLookup\\DNSLookup.cpp",
-              "RelativeToolTip": "DNSLookup\\DNSLookup.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-26T09:54:44.05Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -45,11 +28,17 @@
               "RelativeDocumentMoniker": "TCPClient\\TCPClient.cpp",
               "ToolTip": "C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\TCPClient\\TCPClient.cpp",
               "RelativeToolTip": "TCPClient\\TCPClient.cpp",
-              "ViewState": "AgIAABoAAAAAAAAAAAAiwDEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-26T08:13:39.428Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -58,7 +47,7 @@
               "RelativeDocumentMoniker": "TCPServer\\TCPServer.cpp",
               "ToolTip": "C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\TCPServer\\TCPServer.cpp",
               "RelativeToolTip": "TCPServer\\TCPServer.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwC8AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-26T06:49:27.961Z",
               "EditorCaption": ""
