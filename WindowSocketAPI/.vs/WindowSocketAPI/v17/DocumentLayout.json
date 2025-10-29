@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B02C7448-23AC-4241-97F6-D5FDBBA83F67}|TCPServer\\TCPServer.vcxproj|C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\TCPServer\\TCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B02C7448-23AC-4241-97F6-D5FDBBA83F67}|TCPServer\\TCPServer.vcxproj|solutionrelative:TCPServer\\TCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6F59773B-9509-4EB3-9C6B-E2326B28149C}|CalculatorServer\\CalculatorServer.vcxproj|C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\CalculatorServer\\CalculatorServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F59773B-9509-4EB3-9C6B-E2326B28149C}|CalculatorServer\\CalculatorServer.vcxproj|solutionrelative:CalculatorServer\\CalculatorServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AA2DC9-274C-4ABA-BC48-6255B5CFC3B2}|TCPClient\\TCPClient.vcxproj|C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\TCPClient\\TCPClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B1AA2DC9-274C-4ABA-BC48-6255B5CFC3B2}|TCPClient\\TCPClient.vcxproj|solutionrelative:TCPClient\\TCPClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0904D761-FA55-47B7-BF54-44A92541BD29}|CalculatorClient\\CalculatorClient.vcxproj|C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\CalculatorClient\\CalculatorClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0904D761-FA55-47B7-BF54-44A92541BD29}|CalculatorClient\\CalculatorClient.vcxproj|solutionrelative:CalculatorClient\\CalculatorClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +22,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TCPClient.cpp",
-              "DocumentMoniker": "C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\TCPClient\\TCPClient.cpp",
-              "RelativeDocumentMoniker": "TCPClient\\TCPClient.cpp",
-              "ToolTip": "C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\TCPClient\\TCPClient.cpp",
-              "RelativeToolTip": "TCPClient\\TCPClient.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwCQAAAATAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CalculatorServer.cpp",
+              "DocumentMoniker": "C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\CalculatorServer\\CalculatorServer.cpp",
+              "RelativeDocumentMoniker": "CalculatorServer\\CalculatorServer.cpp",
+              "ToolTip": "C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\CalculatorServer\\CalculatorServer.cpp",
+              "RelativeToolTip": "CalculatorServer\\CalculatorServer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-26T08:13:39.428Z",
+              "WhenOpened": "2025-10-29T07:22:24.847Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TCPServer.cpp",
-              "DocumentMoniker": "C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\TCPServer\\TCPServer.cpp",
-              "RelativeDocumentMoniker": "TCPServer\\TCPServer.cpp",
-              "ToolTip": "C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\TCPServer\\TCPServer.cpp",
-              "RelativeToolTip": "TCPServer\\TCPServer.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAASAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CalculatorClient.cpp",
+              "DocumentMoniker": "C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\CalculatorClient\\CalculatorClient.cpp",
+              "RelativeDocumentMoniker": "CalculatorClient\\CalculatorClient.cpp",
+              "ToolTip": "C:\\Users\\antjd\\Documents\\GitHub\\TCP-IP_Socket\\WindowSocketAPI\\CalculatorClient\\CalculatorClient.cpp",
+              "RelativeToolTip": "CalculatorClient\\CalculatorClient.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-26T06:49:27.961Z",
+              "WhenOpened": "2025-10-29T07:22:33.145Z",
               "EditorCaption": ""
             }
           ]
