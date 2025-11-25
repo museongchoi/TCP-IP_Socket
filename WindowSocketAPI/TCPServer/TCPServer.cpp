@@ -17,10 +17,10 @@ int main()
 	WSADATA wsaData;
 	WSAStartup(MAKEWORD(2, 2), &wsaData);
 
-	// [3] 리슨 전용 소켓 생성
+	// [3] 서버 리슨 전용 소켓 생성
 	SOCKET ListenSocket = socket(PF_INET, SOCK_STREAM, 0);
 
-	// 리슨 소켓 주소 구조체
+	// 서버 리슨 소켓 주소 구조체
 	struct sockaddr_in ListenSockAddr;
 	ZeroMemory(&ListenSockAddr, 0);
 	ListenSockAddr.sin_family = AF_INET;
